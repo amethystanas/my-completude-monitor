@@ -30,7 +30,7 @@ SESSION_RECHERCHE = {
 DISTANCE_THRESHOLD_KM = 6.0
 
 # On the very first run, record existing offers without emailing them all
-SILENT_FIRST_RUN = True
+SILENT_FIRST_RUN = False
 
 # Email server (Gmail by default)
 SMTP_SERVER = "smtp.gmail.com"
