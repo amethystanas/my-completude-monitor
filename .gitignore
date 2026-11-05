@@ -1,0 +1,7 @@
+# secrets for local runs — never commit
+.env
+token_cache.json
+
+__pycache__/
+*.pyc
+.venv/
